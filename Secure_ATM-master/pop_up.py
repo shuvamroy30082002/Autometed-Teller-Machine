@@ -18,7 +18,7 @@ correctAtmId = '2020'
 correctPin = '6344'
 
 # To keep track of the SCREENS
-screenNumber = 0
+screenNumber = 1
 
 # Number list
 normalList = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
